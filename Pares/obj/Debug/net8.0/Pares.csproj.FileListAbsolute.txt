@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\bin\Debug\net8.0\Pares.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\bin\Debug\net8.0\Pares.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\bin\Debug\net8.0\Pares.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\bin\Debug\net8.0\Pares.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\bin\Debug\net8.0\Pares.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\refint\Pares.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\Pares.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Pares\obj\Debug\net8.0\ref\Pares.dll
