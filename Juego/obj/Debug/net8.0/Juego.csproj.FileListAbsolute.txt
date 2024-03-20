@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\bin\Debug\net8.0\Juego.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\bin\Debug\net8.0\Juego.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\bin\Debug\net8.0\Juego.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\bin\Debug\net8.0\Juego.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\bin\Debug\net8.0\Juego.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\refint\Juego.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\Juego.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Juego\obj\Debug\net8.0\ref\Juego.dll
