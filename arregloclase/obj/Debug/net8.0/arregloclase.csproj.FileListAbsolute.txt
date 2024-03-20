@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\bin\Debug\net8.0\arregloclase.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\bin\Debug\net8.0\arregloclase.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\bin\Debug\net8.0\arregloclase.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\bin\Debug\net8.0\arregloclase.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\bin\Debug\net8.0\arregloclase.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\refint\arregloclase.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\arregloclase.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\arregloclase\obj\Debug\net8.0\ref\arregloclase.dll
