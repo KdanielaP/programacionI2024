@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\bin\Debug\net8.0\Desafio.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\bin\Debug\net8.0\Desafio.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\bin\Debug\net8.0\Desafio.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\bin\Debug\net8.0\Desafio.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\bin\Debug\net8.0\Desafio.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\refint\Desafio.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\Desafio.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio\obj\Debug\net8.0\ref\Desafio.dll

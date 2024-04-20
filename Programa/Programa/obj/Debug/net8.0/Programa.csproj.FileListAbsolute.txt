@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Programa\Programa\obj\Debug\net8.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Programa\Programa\obj\Debug\net8.0\Programa.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Programa\Programa\obj\Debug\net8.0\Programa.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Programa\Programa\obj\Debug\net8.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Programa\Programa\obj\Debug\net8.0\Programa.sourcelink.json

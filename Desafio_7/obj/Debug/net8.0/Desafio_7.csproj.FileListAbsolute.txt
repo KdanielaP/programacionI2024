@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\bin\Debug\net8.0\Desafio_7.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\bin\Debug\net8.0\Desafio_7.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\bin\Debug\net8.0\Desafio_7.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\bin\Debug\net8.0\Desafio_7.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\bin\Debug\net8.0\Desafio_7.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\refint\Desafio_7.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\Desafio_7.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio_7\obj\Debug\net8.0\ref\Desafio_7.dll

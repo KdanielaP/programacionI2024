@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\bin\Debug\net8.0\clientes.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\bin\Debug\net8.0\clientes.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\bin\Debug\net8.0\clientes.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\bin\Debug\net8.0\clientes.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\bin\Debug\net8.0\clientes.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\refint\clientes.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\clientes.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\clientes\obj\Debug\net8.0\ref\clientes.dll

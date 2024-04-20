@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\bin\Debug\net8.0\Desafio6.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\bin\Debug\net8.0\Desafio6.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\bin\Debug\net8.0\Desafio6.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\bin\Debug\net8.0\Desafio6.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\bin\Debug\net8.0\Desafio6.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\refint\Desafio6.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\Desafio6.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Desafio6\obj\Debug\net8.0\ref\Desafio6.dll

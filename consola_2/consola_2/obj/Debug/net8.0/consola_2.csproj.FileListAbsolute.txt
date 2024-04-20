@@ -1,0 +1,30 @@
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\bin\Debug\net8.0\consola_2.exe
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\bin\Debug\net8.0\consola_2.deps.json
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\bin\Debug\net8.0\consola_2.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\bin\Debug\net8.0\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\bin\Debug\net8.0\consola_2.pdb
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\refint\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.pdb
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\consola_2.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\POO\consola_2\consola_2\obj\Debug\net8.0\ref\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\bin\Debug\net8.0\consola_2.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\bin\Debug\net8.0\consola_2.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\bin\Debug\net8.0\consola_2.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\bin\Debug\net8.0\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\bin\Debug\net8.0\consola_2.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\refint\consola_2.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\consola_2.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\consola_2\consola_2\obj\Debug\net8.0\ref\consola_2.dll

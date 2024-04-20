@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\bin\Debug\net8.0\Interfas.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\bin\Debug\net8.0\Interfas.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\bin\Debug\net8.0\Interfas.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\bin\Debug\net8.0\Interfas.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\bin\Debug\net8.0\Interfas.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\refint\Interfas.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\Interfas.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Interfas\obj\Debug\net8.0\ref\Interfas.dll

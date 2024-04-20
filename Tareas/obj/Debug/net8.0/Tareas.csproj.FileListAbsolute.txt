@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\bin\Debug\net8.0\Tareas.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\bin\Debug\net8.0\Tareas.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\bin\Debug\net8.0\Tareas.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\bin\Debug\net8.0\Tareas.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\bin\Debug\net8.0\Tareas.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\refint\Tareas.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\Tareas.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\Tareas\obj\Debug\net8.0\ref\Tareas.dll

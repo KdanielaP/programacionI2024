@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\bin\Debug\net8.0\descuento.exe
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\bin\Debug\net8.0\descuento.deps.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\bin\Debug\net8.0\descuento.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\bin\Debug\net8.0\descuento.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\bin\Debug\net8.0\descuento.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\refint\descuento.dll
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.pdb
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\descuento.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\progra txt\descuento\obj\Debug\net8.0\ref\descuento.dll

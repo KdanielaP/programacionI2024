@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_7", "Desafio_7.csproj", "{BBB52376-3EBD-43EE-8F16-7D86026ACA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfas", "..\Interfas\Interfas.csproj", "{C9569252-937A-4C27-92B6-829C8C26C44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "..\Polimorfismo\Polimorfismo.csproj", "{07872889-5F0C-4BCC-8114-86186B9E0447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB52376-3EBD-43EE-8F16-7D86026ACA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB52376-3EBD-43EE-8F16-7D86026ACA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB52376-3EBD-43EE-8F16-7D86026ACA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB52376-3EBD-43EE-8F16-7D86026ACA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9569252-937A-4C27-92B6-829C8C26C44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9569252-937A-4C27-92B6-829C8C26C44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9569252-937A-4C27-92B6-829C8C26C44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9569252-937A-4C27-92B6-829C8C26C44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07872889-5F0C-4BCC-8114-86186B9E0447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07872889-5F0C-4BCC-8114-86186B9E0447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07872889-5F0C-4BCC-8114-86186B9E0447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07872889-5F0C-4BCC-8114-86186B9E0447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591C48F4-59AF-4065-80E0-A35F37164790}
+	EndGlobalSection
+EndGlobal
